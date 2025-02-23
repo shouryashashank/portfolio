@@ -1,0 +1,38 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/shouryashashank/shouryashashank/master/README.md",
+  "title": "Shourya Shashank",
+  "name": "Shourya Shashank",
+  "ascii": "Shourya Shashank",
+  "social": {
+    "github": "shouryashashank",
+    "linkedin": "shourya-shashank"
+  },
+  "email": "shouryashashank@gmail.com",
+  "ps1_hostname": "Shourya",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/shouryashashank?tab=repositories",
+  "resume_url": "https://github.com/shouryashashank/cv/blob/main/shourya_default_cv.pdf",
+  "donate_urls": {
+    "patreon": "https://www.patreon.com/c/Predacons"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1f1f1f",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
